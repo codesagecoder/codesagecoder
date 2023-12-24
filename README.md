@@ -12,7 +12,7 @@ I build responsive websites, clean user interfaces and rich interactive web apps
 
 [![Website Badge](https://img.shields.io/badge/Website-A0522D?style=plastic&logo=google-chrome&logoColor=white&labelColor=50514D)](https://google.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-wilson-931547274/)
-[![LinkedIn Badge](https://img.shields.io/badge/Stack_Overflow-FF5F1F?style=plastic&logo=stackoverflow&logoColor=white&labelColor=50514D)](https://stackoverflow.com/users/17766696/sage-coder)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FF5F1F?style=plastic&logo=stackoverflow&logoColor=white&labelColor=50514D)](https://stackoverflow.com/users/17766696/sage-coder)
 
 <img align="right" src="https://user-images.githubusercontent.com/6918020/126283454-ce7278b7-d703-4ae0-93f4-ebb7305c983e.gif" width="440" />
 
@@ -47,7 +47,7 @@ I build responsive websites, clean user interfaces and rich interactive web apps
 
 - 💬 Open to collaborate on => Web development.
 - ⚛️ Currently learning => React Native.
-- 💡 Always on the latest tech news.
+- 💡 Always on the latest tech news. [![Fireship Badge](https://img.shields.io/badge/Fire_Ship-50514D?style=plastic&logo=fireship&logoColor=white&labelColor=FF5F1F)](https://www.youtube.com/@Fireship)
 - 🎮 UE5 beginner hobbyist.
+<!-- - 💡 Always on the latest tech news. [@Fireship](https://www.youtube.com/@Fireship) -->
 <!-- - ✅ Looking to collaborate on => Web development. -->
-<!-- - 🎯 2024 Goals: Learn Unreal Engine 5 (Game Development). -->
