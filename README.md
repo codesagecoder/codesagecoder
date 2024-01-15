@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25"/>   -->
 
 ```
-I'm a fullstack developer.
+I'm a web developer.
 I build responsive websites, clean user interfaces and rich interactive web apps.
 ```
 
