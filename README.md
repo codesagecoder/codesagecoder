@@ -45,7 +45,7 @@ I build responsive websites, clean user interfaces and rich interactive web apps
 ### 👨‍💻 About Me 
 
 - 💬 Open to collaborate on => Web development.
-- ⚛️ Currently learning => React Native.
+- ⚛️ Currently learning => Laravel.
 - 💡 Always on the latest tech news. [![Fireship Badge](https://img.shields.io/badge/Fire_Ship-50514D?style=plastic&logo=fireship&logoColor=white&labelColor=FF5F1F)](https://www.youtube.com/@Fireship)
 - 🎮 UE5 beginner hobbyist.
 <!-- - 💡 Always on the latest tech news. [@Fireship](https://www.youtube.com/@Fireship) -->
