@@ -45,6 +45,6 @@ I build responsive websites, clean user interfaces and rich interactive web apps
 ### 👨‍💻 About Me 
 
 - 💬 Open to collaborate on => Web development.
-- ⚛️ Currently learning => Laravel.
+- ⚛️ Currently learning => Rust.
 - 💡 Always on the latest tech news. [![Fireship Badge](https://img.shields.io/badge/Daily_Dev-FFF?style=plastic&logo=dailydotdev&logoColor=FFF&labelColor=000)](https://daily.dev/)
 - 🎮 UE5 beginner hobbyist.
